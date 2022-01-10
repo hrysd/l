@@ -9,3 +9,4 @@
 - [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/)
 - [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 - [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
+- [66. Plus One](https://leetcode.com/problems/plus-one/)
