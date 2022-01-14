@@ -13,3 +13,4 @@
 - [66. Plus One](https://leetcode.com/problems/plus-one/)
 - [67. Add Binary](https://leetcode.com/problems/add-binary/)
 - [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+- [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
