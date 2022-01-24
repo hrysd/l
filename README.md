@@ -23,3 +23,4 @@
 - [136. Single Number](https://leetcode.com/problems/single-number/)
 - [155. Min Stack](https://leetcode.com/problems/min-stack/)
 - [169. Majority Element](https://leetcode.com/problems/majority-element/)
+- [175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)
