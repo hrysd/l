@@ -24,3 +24,4 @@
 - [155. Min Stack](https://leetcode.com/problems/min-stack/)
 - [169. Majority Element](https://leetcode.com/problems/majority-element/)
 - [175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)
+- [181. Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)
