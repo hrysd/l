@@ -28,3 +28,4 @@
 - [181. Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)
 - [182. Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)
 - [183. Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)
+- [196. Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)
