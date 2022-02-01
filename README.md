@@ -28,6 +28,7 @@
 - [181. Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)
 - [182. Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)
 - [183. Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)
+- [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
 - [196. Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)
 - [202. Happy Number](https://leetcode.com/problems/happy-number/)
 - [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
