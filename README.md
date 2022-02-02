@@ -32,3 +32,4 @@
 - [196. Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)
 - [202. Happy Number](https://leetcode.com/problems/happy-number/)
 - [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+- [258. Add Digits](https://leetcode.com/problems/add-digits/)
