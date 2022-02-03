@@ -33,3 +33,4 @@
 - [202. Happy Number](https://leetcode.com/problems/happy-number/)
 - [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [258. Add Digits](https://leetcode.com/problems/add-digits/)
+- [268. Missing Number](https://leetcode.com/problems/missing-number/)
