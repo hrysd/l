@@ -35,3 +35,4 @@
 - [258. Add Digits](https://leetcode.com/problems/add-digits/)
 - [268. Missing Number](https://leetcode.com/problems/missing-number/)
 - [278. First Bad Version](https://leetcode.com/problems/first-bad-version/)
+- [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
