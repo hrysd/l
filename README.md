@@ -37,3 +37,4 @@
 - [278. First Bad Version](https://leetcode.com/problems/first-bad-version/)
 - [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 - [290. Word Pattern](https://leetcode.com/problems/word-pattern/)
+- [292. Nim Game](https://leetcode.com/problems/nim-game/)
