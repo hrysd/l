@@ -45,3 +45,4 @@
 - [383. Ransom Note](https://leetcode.com/problems/ransom-note/)
 - [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
 - [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
+- [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
