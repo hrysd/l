@@ -46,6 +46,7 @@
 - [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
 - [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
 - [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
+- [1365. How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
 - [1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
 - [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
 - [1476. Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/)
