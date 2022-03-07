@@ -54,6 +54,7 @@
 - [1476. Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/)
 - [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
 - [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)
+- [1528. Shuffle String](https://leetcode.com/problems/shuffle-string/)
 - [1603. Design Parking System](https://leetcode.com/problems/design-parking-system/)
 - [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)
 - [1720. Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)
