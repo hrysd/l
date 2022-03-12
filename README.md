@@ -62,6 +62,7 @@
 - [1720. Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)
 - [1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)
 - [1828. Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/)
+- [1859. Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)
 - [1920. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)
 - [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
 - [2011. Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)
