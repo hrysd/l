@@ -62,6 +62,7 @@
 - [1603. Design Parking System](https://leetcode.com/problems/design-parking-system/)
 - [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)
 - [1678. Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)
+- [1688. Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)
 - [1720. Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)
 - [1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)
 - [1828. Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/)
