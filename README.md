@@ -64,6 +64,7 @@
 - [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)
 - [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)
 - [1678. Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)
+- [1684. Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)
 - [1688. Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)
 - [1720. Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)
 - [1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)
