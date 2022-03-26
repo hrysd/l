@@ -69,6 +69,7 @@
 - [1688. Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)
 - [1720. Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)
 - [1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)
+- [1757. Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)
 - [1828. Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/)
 - [1832. Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)
 - [1859. Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)
