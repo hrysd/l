@@ -74,6 +74,7 @@
 - [1757. Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)
 - [1828. Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/)
 - [1832. Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)
+- [1873. Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/)
 - [1859. Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)
 - [1920. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)
 - [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
