@@ -53,6 +53,7 @@
 - [1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
 - [1365. How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
 - [1389. Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)
+- [1393. Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/)
 - [1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
 - [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
 - [1476. Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/)
