@@ -61,6 +61,7 @@
 - [1486. XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)
 - [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)
 - [1528. Shuffle String](https://leetcode.com/problems/shuffle-string/)
+- [1587. Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/)
 - [1588. Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/)
 - [1603. Design Parking System](https://leetcode.com/problems/design-parking-system/)
 - [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)
