@@ -58,6 +58,7 @@
 - [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
 - [1476. Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/)
 - [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
+- [1484. Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/)
 - [1486. XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)
 - [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)
 - [1528. Shuffle String](https://leetcode.com/problems/shuffle-string/)
