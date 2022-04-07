@@ -78,6 +78,7 @@
 - [1741. Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/)
 - [1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)
 - [1757. Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)
+- [1791. Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/)
 - [1795. Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/)
 - [1828. Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/)
 - [1832. Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)
