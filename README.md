@@ -47,6 +47,7 @@
 - [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
 - [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
 - [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
+- [1179. Reformat Department Table](https://leetcode.com/problems/reformat-department-table/)
 - [1221. Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)
 - [1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 - [1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)
