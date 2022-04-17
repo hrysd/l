@@ -45,6 +45,7 @@
 - [383. Ransom Note](https://leetcode.com/problems/ransom-note/)
 - [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
 - [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
+- [511. Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/)
 - [709. To Lower Case](https://leetcode.com/problems/to-lower-case/)
 - [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
 - [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
