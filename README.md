@@ -99,6 +99,7 @@
 - [2103. Rings and Rods](https://leetcode.com/problems/rings-and-rods/)
 - [2114. Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/)
 - [2160. Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/)
+- [2176. Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/)
 - [2194. Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/)
 - [2235. Add Two Integers](https://leetcode.com/problems/add-two-integers/)
 - [2236. Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/)
