@@ -88,6 +88,7 @@
 - [1816. Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)
 - [1828. Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/)
 - [1832. Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)
+- [1844. Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/)
 - [1873. Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/)
 - [1859. Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)
 - [1890. The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020/)
