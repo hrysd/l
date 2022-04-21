@@ -49,6 +49,7 @@
 - [709. To Lower Case](https://leetcode.com/problems/to-lower-case/)
 - [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
 - [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)
+- [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
 - [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
 - [1179. Reformat Department Table](https://leetcode.com/problems/reformat-department-table/)
 - [1221. Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)
