@@ -46,6 +46,7 @@
 - [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
 - [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
 - [511. Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/)
+- [627. Swap Salary](https://leetcode.com/problems/swap-salary/)
 - [709. To Lower Case](https://leetcode.com/problems/to-lower-case/)
 - [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
 - [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)
