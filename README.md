@@ -98,6 +98,7 @@
 - [1913. Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/)
 - [1920. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)
 - [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
+- [1967. Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/)
 - [2006. Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/)
 - [2011. Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)
 - [2103. Rings and Rods](https://leetcode.com/problems/rings-and-rods/)
