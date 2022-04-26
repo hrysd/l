@@ -70,6 +70,7 @@
 - [1486. XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)
 - [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)
 - [1528. Shuffle String](https://leetcode.com/problems/shuffle-string/)
+- [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)
 - [1581. Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/)
 - [1587. Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/)
 - [1588. Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/)
