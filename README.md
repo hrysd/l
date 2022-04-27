@@ -84,6 +84,7 @@
 - [1688. Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)
 - [1693. Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/)
 - [1720. Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)
+- [1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)
 - [1741. Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/)
 - [1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)
 - [1757. Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)
