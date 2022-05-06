@@ -95,6 +95,7 @@
 - [1757. Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)
 - [1791. Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/)
 - [1795. Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/)
+- [1812. Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/)
 - [1816. Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)
 - [1827. Minimum Operations to Make the Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/)
 - [1828. Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/)
