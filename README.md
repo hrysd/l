@@ -55,6 +55,7 @@
 - [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)
 - [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
 - [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
+- [1148. Article Views I](https://leetcode.com/problems/article-views-i/)
 - [1179. Reformat Department Table](https://leetcode.com/problems/reformat-department-table/)
 - [1221. Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)
 - [1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
