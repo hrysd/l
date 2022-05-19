@@ -55,6 +55,7 @@
 - [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
 - [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)
 - [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
+- [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
 - [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
 - [1148. Article Views I](https://leetcode.com/problems/article-views-i/)
 - [1179. Reformat Department Table](https://leetcode.com/problems/reformat-department-table/)
