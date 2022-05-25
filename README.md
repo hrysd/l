@@ -45,6 +45,7 @@
 - [383. Ransom Note](https://leetcode.com/problems/ransom-note/)
 - [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
 - [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
+- [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/)
 - [511. Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/)
 - [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
 - [584. Find Customer Referee](https://leetcode.com/problems/find-customer-referee/)
