@@ -39,6 +39,7 @@
 - [290. Word Pattern](https://leetcode.com/problems/word-pattern/)
 - [292. Nim Game](https://leetcode.com/problems/nim-game/)
 - [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)
+- [338. Counting Bits](https://leetcode.com/problems/counting-bits/)
 - [344. Reverse String](https://leetcode.com/problems/reverse-string/)
 - [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 - [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
