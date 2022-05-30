@@ -50,6 +50,7 @@
 - [511. Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/)
 - [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
 - [584. Find Customer Referee](https://leetcode.com/problems/find-customer-referee/)
+- [586. Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/)
 - [595. Big Countries](https://leetcode.com/problems/big-countries/)
 - [627. Swap Salary](https://leetcode.com/problems/swap-salary/)
 - [657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)
