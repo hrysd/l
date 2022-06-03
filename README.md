@@ -144,4 +144,5 @@
 - [2194. Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/)
 - [2235. Add Two Integers](https://leetcode.com/problems/add-two-integers/)
 - [2236. Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/)
+- [2278. Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/)
 - [2283. Check if Number Has Equal Digit Count and Digit Value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/)
