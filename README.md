@@ -135,6 +135,7 @@
 - [2011. Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)
 - [2032. Two Out of Three](https://leetcode.com/problems/two-out-of-three/)
 - [2053. Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/)
+- [2057. Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value/)
 - [2089. Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/)
 - [2103. Rings and Rods](https://leetcode.com/problems/rings-and-rods/)
 - [2108. Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/)
