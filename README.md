@@ -34,6 +34,7 @@
 - [196. Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)
 - [202. Happy Number](https://leetcode.com/problems/happy-number/)
 - [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+- [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - [258. Add Digits](https://leetcode.com/problems/add-digits/)
 - [268. Missing Number](https://leetcode.com/problems/missing-number/)
 - [278. First Bad Version](https://leetcode.com/problems/first-bad-version/)
