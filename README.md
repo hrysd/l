@@ -67,6 +67,7 @@
 - [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
 - [922. Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)
 - [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
+- [944. Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/)
 - [961. N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)
 - [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - [1051. Height Checker](https://leetcode.com/problems/height-checker/)
