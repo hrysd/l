@@ -76,6 +76,7 @@
 - [1051. Height Checker](https://leetcode.com/problems/height-checker/)
 - [1148. Article Views I](https://leetcode.com/problems/article-views-i/)
 - [1179. Reformat Department Table](https://leetcode.com/problems/reformat-department-table/)
+- [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)
 - [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)
 - [1221. Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)
 - [1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
