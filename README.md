@@ -65,6 +65,7 @@
 - [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
 - [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)
 - [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
+- [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
 - [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
 - [922. Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)
 - [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)
