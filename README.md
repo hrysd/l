@@ -117,6 +117,7 @@
 - [1588. Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/)
 - [1603. Design Parking System](https://leetcode.com/problems/design-parking-system/)
 - [1614. Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)
+- [1636. Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/)
 - [1656. Design an Ordered Stream](https://leetcode.com/problems/design-an-ordered-stream/)
 - [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)
 - [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)
