@@ -161,6 +161,7 @@
 - [2032. Two Out of Three](https://leetcode.com/problems/two-out-of-three/)
 - [2053. Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/)
 - [2057. Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value/)
+- [2078. Two Furthest Houses With Different Colors](https://leetcode.com/problems/two-furthest-houses-with-different-colors/)
 - [2085. Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence/)
 - [2089. Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/)
 - [2103. Rings and Rods](https://leetcode.com/problems/rings-and-rods/)
