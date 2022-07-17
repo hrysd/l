@@ -79,6 +79,7 @@
 - [1051. Height Checker](https://leetcode.com/problems/height-checker/)
 - [1122. Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)
 - [1148. Article Views I](https://leetcode.com/problems/article-views-i/)
+- [1160. Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)
 - [1179. Reformat Department Table](https://leetcode.com/problems/reformat-department-table/)
 - [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)
 - [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)
