@@ -183,4 +183,5 @@
 - [2255. Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string/)
 - [2278. Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/)
 - [2283. Check if Number Has Equal Digit Count and Digit Value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/)
+- [2315. Count Asterisks](https://leetcode.com/problems/count-asterisks/)
 - [2325. Decode the Message](https://leetcode.com/problems/decode-the-message/)
