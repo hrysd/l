@@ -153,6 +153,7 @@
 - [1890. The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020/)
 - [1913. Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/)
 - [1920. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)
+- [1925. Count Square Sum Triples](https://leetcode.com/problems/count-square-sum-triples/)
 - [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
 - [1965. Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information/)
 - [1967. Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/)
