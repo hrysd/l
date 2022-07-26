@@ -133,6 +133,7 @@
 - [1704. Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)
 - [1710. Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)
 - [1720. Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)
+- [1725. Number Of Rectangles That Can Form The Largest Square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/)
 - [1729. Find Followers Count](https://leetcode.com/problems/find-followers-count/)
 - [1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)
 - [1741. Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/)
