@@ -148,6 +148,7 @@
 - [1827. Minimum Operations to Make the Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/)
 - [1828. Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/)
 - [1832. Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)
+- [1837. Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k/)
 - [1844. Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/)
 - [1873. Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/)
 - [1859. Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)
