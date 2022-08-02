@@ -195,3 +195,4 @@
 - [2315. Count Asterisks](https://leetcode.com/problems/count-asterisks/)
 - [2325. Decode the Message](https://leetcode.com/problems/decode-the-message/)
 - [2351. First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/)
+- [2357. Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/)
