@@ -85,6 +85,7 @@
 - [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)
 - [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)
 - [1221. Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)
+- [1252. Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)
 - [1260. Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/)
 - [1266. Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/)
 - [1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
