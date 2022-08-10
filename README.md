@@ -155,6 +155,7 @@
 - [1837. Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k/)
 - [1844. Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/)
 - [1873. Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/)
+- [1876. Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)
 - [1859. Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)
 - [1880. Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/)
 - [1890. The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020/)
