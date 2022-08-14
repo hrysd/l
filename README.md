@@ -146,6 +146,7 @@
 - [1748. Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/)
 - [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)
 - [1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)
+- [1779. Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/)
 - [1757. Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)
 - [1791. Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/)
 - [1795. Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/)
