@@ -70,6 +70,7 @@
 - [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
 - [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
 - [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
+- [908. Smallest Range I](https://leetcode.com/problems/smallest-range-i/)
 - [922. Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)
 - [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)
 - [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
