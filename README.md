@@ -64,6 +64,7 @@
 - [682. Baseball Game](https://leetcode.com/problems/baseball-game/)
 - [709. To Lower Case](https://leetcode.com/problems/to-lower-case/)
 - [728. Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)
+- [762. Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/)
 - [766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)
 - [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
 - [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)
