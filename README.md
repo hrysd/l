@@ -73,6 +73,7 @@
 - [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
 - [908. Smallest Range I](https://leetcode.com/problems/smallest-range-i/)
 - [922. Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)
+- [929. Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)
 - [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)
 - [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
 - [944. Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/)
