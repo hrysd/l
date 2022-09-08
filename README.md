@@ -216,6 +216,7 @@
 - [2255. Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string/)
 - [2278. Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/)
 - [2283. Check if Number Has Equal Digit Count and Digit Value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/)
+- [2293. Min Max Game](https://leetcode.com/problems/min-max-game/)
 - [2309. Greatest English Letter in Upper and Lower Case](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/)
 - [2315. Count Asterisks](https://leetcode.com/problems/count-asterisks/)
 - [2319. Check if Matrix Is X-Matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix/)
