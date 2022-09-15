@@ -87,6 +87,7 @@
 - [1002. Find Common Characters](https://leetcode.com/problems/find-common-characters/)
 - [1021. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)
 - [1025. Divisor Game](https://leetcode.com/problems/divisor-game/)
+- [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
 - [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) 
 - [1051. Height Checker](https://leetcode.com/problems/height-checker/)
 - [1122. Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)
