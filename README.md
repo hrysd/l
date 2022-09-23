@@ -90,6 +90,7 @@
 - [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
 - [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) 
 - [1051. Height Checker](https://leetcode.com/problems/height-checker/)
+- [1078. Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/)
 - [1122. Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)
 - [1148. Article Views I](https://leetcode.com/problems/article-views-i/)
 - [1160. Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)
