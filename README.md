@@ -167,6 +167,7 @@
 - [1757. Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)
 - [1791. Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/)
 - [1795. Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/)
+- [1800. Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/)
 - [1812. Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/)
 - [1816. Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)
 - [1822. Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/)
