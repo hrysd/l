@@ -118,6 +118,7 @@
 - [1385. Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/)
 - [1389. Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)
 - [1393. Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/)
+- [1394. Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/)
 - [1399. Count Largest Group](https://leetcode.com/problems/count-largest-group/)
 - [1407. Top Travellers](https://leetcode.com/problems/top-travellers/)
 - [1408. String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/)
