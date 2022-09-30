@@ -241,3 +241,4 @@
 - [2351. First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/)
 - [2357. Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/)
 - [2363. Merge Similar Items](https://leetcode.com/problems/merge-similar-items/)
+- [2395. Find Subarrays With Equal Sum](https://leetcode.com/problems/find-subarrays-with-equal-sum/description/)
