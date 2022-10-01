@@ -74,6 +74,7 @@
 - [806. Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/)
 - [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
 - [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
+- [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/)
 - [884. Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/)
 - [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
 - [908. Smallest Range I](https://leetcode.com/problems/smallest-range-i/)
