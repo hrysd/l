@@ -137,6 +137,7 @@
 - [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
 - [1484. Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/)
 - [1486. XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)
+- [1491. Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/description/)
 - [1050. Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/)
 - [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)
 - [1528. Shuffle String](https://leetcode.com/problems/shuffle-string/)
