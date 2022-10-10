@@ -87,6 +87,7 @@
 - [961. N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)
 - [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - [1002. Find Common Characters](https://leetcode.com/problems/find-common-characters/)
+- [1009. Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/description/)
 - [1021. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)
 - [1025. Divisor Game](https://leetcode.com/problems/divisor-game/)
 - [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
