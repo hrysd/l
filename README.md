@@ -132,6 +132,7 @@
 - [1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
 - [1436. Destination City](https://leetcode.com/problems/destination-city/)
 - [1441. Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/)
+- [1446. Consecutive Characters](https://leetcode.com/problems/consecutive-characters/description/)
 - [1450. Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/)
 - [1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence](1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence)
 - [1460. Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/)
