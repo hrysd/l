@@ -151,6 +151,7 @@
 - [1050. Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/)
 - [1507. Reformat Date](https://leetcode.com/problems/reformat-date/description/)
 - [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)
+- [1518. Water Bottles](https://leetcode.com/problems/water-bottles/description/)
 - [1528. Shuffle String](https://leetcode.com/problems/shuffle-string/)
 - [1550. Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/)
 - [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)
