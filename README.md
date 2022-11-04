@@ -214,6 +214,7 @@
 - [1979. Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/)
 - [1967. Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/)
 - [1991. Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/)
+- [1995. Count Special Quadruplets](https://leetcode.com/problems/count-special-quadruplets/description/)
 - [2000. Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/)
 - [2006. Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/)
 - [2011. Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)
