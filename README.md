@@ -183,6 +183,7 @@
 - [1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)
 - [1741. Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/)
 - [1748. Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/)
+- [1758. Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/description/)
 - [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)
 - [1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)
 - [1779. Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/)
