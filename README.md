@@ -272,3 +272,4 @@
 - [2357. Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/)
 - [2363. Merge Similar Items](https://leetcode.com/problems/merge-similar-items/)
 - [2395. Find Subarrays With Equal Sum](https://leetcode.com/problems/find-subarrays-with-equal-sum/description/)
+- [2451. Odd String Difference](https://leetcode.com/problems/odd-string-difference/description/)
