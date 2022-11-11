@@ -55,6 +55,7 @@
 - [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/)
 - [476. Number Complement](https://leetcode.com/problems/number-complement/)
 - [500. Keyboard Row](https://leetcode.com/problems/keyboard-row/)
+- [506. Relative Ranks](https://leetcode.com/problems/relative-ranks/description/)
 - [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
 - [511. Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/)
 - [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
