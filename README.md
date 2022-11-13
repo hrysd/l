@@ -84,6 +84,7 @@
 - [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/)
 - [868. Binary Gap](https://leetcode.com/problems/binary-gap/description/)
 - [884. Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/)
+- [896. Monotonic Array](https://leetcode.com/problems/monotonic-array/description/)
 - [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
 - [908. Smallest Range I](https://leetcode.com/problems/smallest-range-i/)
 - [917. Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/description/)
