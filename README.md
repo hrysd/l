@@ -276,3 +276,4 @@
 - [2395. Find Subarrays With Equal Sum](https://leetcode.com/problems/find-subarrays-with-equal-sum/description/)
 - [2451. Odd String Difference](https://leetcode.com/problems/odd-string-difference/description/)
 - [2455. Average Value of Even Numbers That Are Divisible by Three](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/description/)
+- [2465. Number of Distinct Averages](https://leetcode.com/problems/number-of-distinct-averages/description/)
