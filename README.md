@@ -34,6 +34,7 @@
 - [196. Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)
 - [202. Happy Number](https://leetcode.com/problems/happy-number/)
 - [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+- [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/)
 - [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/)
 - [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/)
