@@ -109,6 +109,7 @@
 - [1148. Article Views I](https://leetcode.com/problems/article-views-i/)
 - [1160. Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)
 - [1179. Reformat Department Table](https://leetcode.com/problems/reformat-department-table/)
+- [1185. Day of the Week](https://leetcode.com/problems/day-of-the-week/description/)
 - [1189. Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/description/)
 - [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)
 - [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)
