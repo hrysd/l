@@ -216,6 +216,7 @@
 - [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
 - [1941. Check if All Characters Have Equal Number of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/)
 - [1945. Sum of Digits of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/description/)
+- [1952. Three Divisors](https://leetcode.com/problems/three-divisors/description/)
 - [1965. Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information/)
 - [1979. Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/)
 - [1967. Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/)
