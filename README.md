@@ -280,6 +280,7 @@
 - [2351. First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/)
 - [2357. Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/)
 - [2363. Merge Similar Items](https://leetcode.com/problems/merge-similar-items/)
+- [2269. Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number/description/)
 - [2395. Find Subarrays With Equal Sum](https://leetcode.com/problems/find-subarrays-with-equal-sum/description/)
 - [2451. Odd String Difference](https://leetcode.com/problems/odd-string-difference/description/)
 - [2455. Average Value of Even Numbers That Are Divisible by Three](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/description/)
