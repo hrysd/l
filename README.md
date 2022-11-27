@@ -271,6 +271,7 @@
 - [2283. Check if Number Has Equal Digit Count and Digit Value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/)
 - [2287. Rearrange Characters to Make Target String](https://leetcode.com/problems/rearrange-characters-to-make-target-string/description/)
 - [2293. Min Max Game](https://leetcode.com/problems/min-max-game/)
+- [2299. Strong Password Checker II](https://leetcode.com/problems/strong-password-checker-ii/description/)
 - [2303. Calculate Amount Paid in Taxes](https://leetcode.com/problems/calculate-amount-paid-in-taxes/description/)
 - [2309. Greatest English Letter in Upper and Lower Case](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/)
 - [2315. Count Asterisks](https://leetcode.com/problems/count-asterisks/)
