@@ -48,6 +48,7 @@
 - [338. Counting Bits](https://leetcode.com/problems/counting-bits/)
 - [344. Reverse String](https://leetcode.com/problems/reverse-string/)
 - [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
+- [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)
 - [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
 - [383. Ransom Note](https://leetcode.com/problems/ransom-note/)
 - [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
