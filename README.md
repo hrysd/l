@@ -144,6 +144,7 @@
 - [1407. Top Travellers](https://leetcode.com/problems/top-travellers/)
 - [1408. String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/)
 - [1413. Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/)
+- [1417. Reformat The String](https://leetcode.com/problems/reformat-the-string/description/)
 - [1422. Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/description/)
 - [1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
 - [1436. Destination City](https://leetcode.com/problems/destination-city/)
