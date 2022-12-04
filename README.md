@@ -216,6 +216,7 @@
 - [1859. Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)
 - [1880. Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/)
 - [1890. The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020/)
+- [1903. Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/description/)
 - [1913. Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/)
 - [1920. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)
 - [1925. Count Square Sum Triples](https://leetcode.com/problems/count-square-sum-triples/)
