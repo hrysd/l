@@ -285,6 +285,7 @@
 - [2315. Count Asterisks](https://leetcode.com/problems/count-asterisks/)
 - [2319. Check if Matrix Is X-Matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix/)
 - [2325. Decode the Message](https://leetcode.com/problems/decode-the-message/)
+- [2367. Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets/description/)
 - [2389. Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/)
 - [2341. Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array/)
 - [2351. First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/)
