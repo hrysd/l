@@ -77,6 +77,7 @@
 - [657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)
 - [682. Baseball Game](https://leetcode.com/problems/baseball-game/)
 - [693. Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/description/)
+- [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/description/)
 - [705. Design HashSet](https://leetcode.com/problems/design-hashset/)
 - [709. To Lower Case](https://leetcode.com/problems/to-lower-case/)
 - [728. Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)
