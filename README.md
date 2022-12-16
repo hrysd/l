@@ -69,6 +69,7 @@
 - [575. Distribute Candies](https://leetcode.com/problems/distribute-candies/)
 - [584. Find Customer Referee](https://leetcode.com/problems/find-customer-referee/)
 - [586. Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/)
+- [590. N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/description/)
 - [595. Big Countries](https://leetcode.com/problems/big-countries/)
 - [607. Sales Person](https://leetcode.com/problems/sales-person/)
 - [620. Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)
