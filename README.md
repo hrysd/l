@@ -33,6 +33,7 @@
 - [195. Tenth Line](https://leetcode.com/problems/tenth-line/)
 - [196. Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)
 - [202. Happy Number](https://leetcode.com/problems/happy-number/)
+- [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
 - [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/)
 - [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/)
