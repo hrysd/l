@@ -105,6 +105,7 @@
 - [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
 - [944. Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/)
 - [961. N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)
+- [965. Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/description/)
 - [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - [1002. Find Common Characters](https://leetcode.com/problems/find-common-characters/)
 - [1009. Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/description/)
