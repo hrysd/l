@@ -22,6 +22,7 @@
 - [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 - [136. Single Number](https://leetcode.com/problems/single-number/)
+- [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/)
 - [155. Min Stack](https://leetcode.com/problems/min-stack/)
 - [169. Majority Element](https://leetcode.com/problems/majority-element/)
 - [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
