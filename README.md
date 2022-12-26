@@ -307,6 +307,7 @@
 - [2441. Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/description/)
 - [2451. Odd String Difference](https://leetcode.com/problems/odd-string-difference/description/)
 - [2455. Average Value of Even Numbers That Are Divisible by Three](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/description/)
+- [2460. Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/description/)
 - [2465. Number of Distinct Averages](https://leetcode.com/problems/number-of-distinct-averages/description/)
 - [2485. Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/description/)
 - [2500. Delete Greatest Value in Each Row](https://leetcode.com/problems/delete-greatest-value-in-each-row/description/)
