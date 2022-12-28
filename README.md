@@ -311,5 +311,6 @@
 - [2460. Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/description/)
 - [2465. Number of Distinct Averages](https://leetcode.com/problems/number-of-distinct-averages/description/)
 - [2485. Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/description/)
+- [2490. Circular Sentence](https://leetcode.com/problems/circular-sentence/description/)
 - [2500. Delete Greatest Value in Each Row](https://leetcode.com/problems/delete-greatest-value-in-each-row/description/)
 - [2506. Count Pairs Of Similar Strings](https://leetcode.com/problems/count-pairs-of-similar-strings/description/)
